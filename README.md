@@ -1,6 +1,6 @@
-# 🎮 Brinquedos API
+# 🎮 Fábrica de Brinquedos
 
-Bem-vindo à **Brinquedos API**! Este projeto é um exemplo prático que utiliza o Spring Boot para demonstrar padrões de projeto como **Factory Method** e **Abstract Factory**, além de incluir documentação e testes interativos com o **Swagger**.
+Bem-vindo à **Fábrica de Brinquedos**! Este projeto é um exemplo prático que utiliza o Spring Boot para demonstrar padrões de projeto como **Factory Method** e **Abstract Factory**, além de incluir documentação e testes interativos com o **Swagger**.
 
 ---
 
